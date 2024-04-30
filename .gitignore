@@ -2,4 +2,5 @@ build/
 .vscode/
 test/
 out/
+datasets/
 core
