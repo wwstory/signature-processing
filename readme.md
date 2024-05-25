@@ -1,7 +1,7 @@
 # Py
 ## 1.Introduce
 
-python+opencv实现的手写签名提取demo,快速预览效果.
+python+opencv实现的签名提取demo,快速预览效果.
 
 ![](./signature-processing-py/imgs/readme_py_preview.png)
 
@@ -23,6 +23,13 @@ python+opencv实现的手写签名提取demo,快速预览效果.
     <img src="./signature-processing-py/imgs/step13.jpg" alt="" height="80">
     <img src="./signature-processing-py/imgs/step14.jpg" alt="" height="80">
 </div>
+
+## 3.Run
+
+```sh
+pip install -r requirements.txt
+# jupyter lab --allow-root --port=8888
+```
 
 # Cpp
 ## 1.Introduce
